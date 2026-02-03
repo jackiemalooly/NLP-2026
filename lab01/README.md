@@ -61,16 +61,16 @@ Depending on your resources and preferences, consider the following setups:
    
    You can create environments with the following:
 
-   - Create an environment named `nlp2025` with Python 3.9:
+   - Create an environment named `nlp2026` with Python 3.10:
 
      ```bash
-     conda create --name nlp2025 python=3.9
+     conda create --name nlp2026 python=3.10
      ```
 
    - Activate the environment:
 
      ```bash
-     conda activate nlp2025
+     conda activate nlp2026
      ```
 
    A more detailed guide for managing environments can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
@@ -110,19 +110,19 @@ When working with LLMs, hardware specifications significantly impact performance
 
 
 
-## Your First NLP Lab (2025)
+## Your First NLP Lab (2026)
 
 1. **Access the First Lab Repository:**
 
     The course materials are hosted on GitHub. Access the repository at:  
-    **[NLP-2025 GitHub Repository](https://github.com/surrey-nlp/NLP-2025/)**
+    **[NLP-2026 GitHub Repository](https://github.com/surrey-nlp/NLP-2026/)**
 
 2. **Clone the Repository:**
 
     To work with the lab materials, clone the repository into a location accessible by your chosen IDE using the command below:
 
     ```bash
-    git clone https://github.com/surrey-nlp/NLP-2025.git
+    git clone https://github.com/surrey-nlp/NLP-2026.git
     ```
     For additional guidance, please refer to the [docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
